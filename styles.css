@@ -1,0 +1,18 @@
+*{
+    font-family: Roboto;
+}
+
+.header{
+    display:flex;
+}
+
+.content{
+    display:flex;
+    flex-direction:column;
+    flex: 1;
+}
+
+.footer{
+    display:flex;
+    
+}
